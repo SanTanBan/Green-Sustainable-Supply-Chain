@@ -1,5 +1,6 @@
 # Green-Sustainable-Supply-Chain
-A new Dimension of classifying Supply chains is proposed which shall have the only objective of reducing emissions. Further secondary objectives of minimizing supply chain cost and allowing additional profit sharing may be considered. However the transition of Efficient and Responsive Supply Chains into Sustainably Efficient and Sustainable Responsive Supply Chains so that ultimately only Green Sustainable Supply Chains may be allowed is the only goal of a civilization to ensure Sustainable Progress on the Kardashev Scale.
+
+A new Dimension of classifying Supply chains is proposed which shall have the objective of reducing emissions. Further secondary objectives of minimizing supply chain cost and allowing additional profit sharing may be considered in the future with appropriate priority sequencing. However the transition of Efficient and Responsive Supply Chains into Sustainably Efficient and Sustainable Responsive Supply Chains so that ultimately only Green Sustainable Supply Chains may be allowed is the only goal of a civilization to ensure Sustainable Progress on the Kardashev Scale.
 
 
 All the individual folders have the same Python File "Sustainable Facility location to reduce Emissions.py".
